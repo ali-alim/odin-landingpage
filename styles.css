@@ -103,9 +103,7 @@ a:hover{
 .main__right {
   color: var(--link-color);
 }
-.main__right-box {
-  padding: 0 30px;
-}
+
 
 .main__right-box img{
   
